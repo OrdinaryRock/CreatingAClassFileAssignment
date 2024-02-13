@@ -1,0 +1,15 @@
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\bin\Debug\net8.0\CreatingAClassFileAssignment.exe
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\bin\Debug\net8.0\CreatingAClassFileAssignment.deps.json
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\bin\Debug\net8.0\CreatingAClassFileAssignment.runtimeconfig.json
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\bin\Debug\net8.0\CreatingAClassFileAssignment.dll
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\bin\Debug\net8.0\CreatingAClassFileAssignment.pdb
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\CreatingAClassFileAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\CreatingAClassFileAssignment.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\CreatingAClassFileAssignment.AssemblyInfo.cs
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\CreatingAClassFileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\CreatingAClassFileAssignment.sourcelink.json
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\CreatingAClassFileAssignment.dll
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\refint\CreatingAClassFileAssignment.dll
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\CreatingAClassFileAssignment.pdb
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\CreatingAClassFileAssignment.genruntimeconfig.cache
+C:\Users\Mason\source\repos\CreatingAClassFileAssignment\obj\Debug\net8.0\ref\CreatingAClassFileAssignment.dll
