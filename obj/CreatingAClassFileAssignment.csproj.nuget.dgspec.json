@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mason\\source\\repos\\CreatingAClassFileAssignment\\CreatingAClassFileAssignment.csproj": {}
+    "C:\\Users\\mason\\source\\repos\\CreatingAClassFileAssignment\\CreatingAClassFileAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mason\\source\\repos\\CreatingAClassFileAssignment\\CreatingAClassFileAssignment.csproj": {
+    "C:\\Users\\mason\\source\\repos\\CreatingAClassFileAssignment\\CreatingAClassFileAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mason\\source\\repos\\CreatingAClassFileAssignment\\CreatingAClassFileAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\mason\\source\\repos\\CreatingAClassFileAssignment\\CreatingAClassFileAssignment.csproj",
         "projectName": "CreatingAClassFileAssignment",
-        "projectPath": "C:\\Users\\Mason\\source\\repos\\CreatingAClassFileAssignment\\CreatingAClassFileAssignment.csproj",
-        "packagesPath": "C:\\Users\\Mason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mason\\source\\repos\\CreatingAClassFileAssignment\\obj\\",
+        "projectPath": "C:\\Users\\mason\\source\\repos\\CreatingAClassFileAssignment\\CreatingAClassFileAssignment.csproj",
+        "packagesPath": "C:\\Users\\mason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mason\\source\\repos\\CreatingAClassFileAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mason\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

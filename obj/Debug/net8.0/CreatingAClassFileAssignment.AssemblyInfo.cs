@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreatingAClassFileAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+926b4f696894cf3254562f2bb14953f0af580ec9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84ccc55402b5af1ecc8e54897e7b6070a57d3629")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreatingAClassFileAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreatingAClassFileAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
